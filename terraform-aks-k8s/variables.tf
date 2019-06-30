@@ -1,10 +1,10 @@
 variable "client_id" {
 
-default = "fce51bf9-1c85-40be-9b80-7292b228d924"
+default = ""
 }
 variable "client_secret" {
 
-default = "W++sgBO3iem87v5SI[x*uvp-K4+.pac2"
+default = ""
 
 }
 variable "ssh_public_key" {
